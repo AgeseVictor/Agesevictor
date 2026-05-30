@@ -27,14 +27,13 @@
 
 ## Who I Am
 
-Software engineer from Nigeria. I build mobile apps, web products, and whatever else needs building. Currently deep in the Buckoid app and picking up C because I got tired of not knowing what the computer is actually doing.
-I like working across the stack — mobile, frontend, backend. Give me a problem, I'll figure out the right tool.
-Also funny. This is not up for debate.
+I got into software because I wanted to build things that felt real — things people actually use. These days, that means Mobile development (Gintoro is my current obsession) and slowly working my way down to C, because the closer you get to the metal, the more everything else makes sense.
+Full-stack by nature. Funny by reputation.
 ---
 
 ## What I'm Up To
 
-- 🔭 **Building:** [Buckoid](https://github.com/agesevictor) — an Android app
+- 🔭 **Building:** [Gintoro](https://github.com/agesevictor) — an Mobile app
 - 📖 **Learning:** C (going back to basics)
 - 💬 **Ask me about:** Android development, the MERN stack, or anything full-stack
 - 📬 **Reach me:** [agesevictor@gmail.com](mailto:agesevictor@gmail.com)
